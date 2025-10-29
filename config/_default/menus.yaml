@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 7ff44e4c-1453-a64c-0068-34e77a71f955
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7a78d188-5b62-44c9-2489-b8265a2f5f9d
+  name: Software and Bibliography
+  pageRef: /pages/software-and-bibliography
+  weight: 20
+- identifier: 02ba5a0f-e399-2dbe-3ede-6bec6956254e
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 30
+- identifier: 13f7348b-393e-8bf7-defa-a7a4d040799b
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides-1
+  weight: 40
+- identifier: 93c41ef1-8a13-b65c-495e-f196a737db5e
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
